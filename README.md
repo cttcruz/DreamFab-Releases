@@ -1,4 +1,4 @@
-﻿# DreamFab Releases
+# DreamFab Releases
 
 Public downloads for **DreamFab** (Windows installer and OTA update packages).
 
@@ -10,6 +10,6 @@ Public downloads for **DreamFab** (Windows installer and OTA update packages).
 - Self-contained Windows x64 build (no separate .NET install)
 - Bundled ffmpeg
 - WebView2 Evergreen is bootstrapped by Setup if missing
-- **Unsigned:** SmartScreen may show "Unknown publisher" → More info → Run anyway
+- **Unsigned:** SmartScreen may show "Unknown publisher" -> More info -> Run anyway
 
 User data lives under `%LocalAppData%\DreamFab\` (`data`, `output`, `webview2`) and survives updates.
